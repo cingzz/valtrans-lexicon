@@ -1,0 +1,44 @@
+ValTrans 公共游戏语音词库 — CC0 1.0 Universal（公有领域奉献）
+
+本词库（valtrans-lexicon 仓库中的 lexicon.json 及后续所有内容）由作者
+cing 奉献至公有领域。
+
+To the extent possible under law, the author(s) have waived all copyright
+and related or neighboring rights to this work. This work is published from
+China under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+license.
+
+## 这意味着什么（重要，请读完）
+
+**词库不受 ValTrans 软件的 GPL 约束，可以自由使用：**
+
+  · 个人、公司、闭源商业软件都可以自由取用、修改、合并
+  · 不需要通知作者，不需要申请授权，不需要付费
+  · 甚至不要求注明出处（虽然我们非常希望你注明）
+
+**理由（有意为之）：**
+
+词库的价值在于**用的人越多，对局沟通越顺**。如果每份商业软件都要先来
+买授权，游戏玩家就得装不同的翻译软件用不同的黑话表，反而更乱。
+
+所以：**约束力加在代码上（GPL），不加在数据上（CC0）。**
+
+## 收录规则
+
+见同目录 README.md。要点：
+
+  1. 同一说法 ≥ 3 个**不同上报者**才收录
+  2. **说法有分歧时一条都不收** —— 游戏黑话有地域差异，
+     硬投票会把少数但正确的说法覆盖掉。有分歧的走人工 review。
+  3. 只收录用户**主动提交**的那一条文本，不含对局记录、音频、
+     设备信息、时间戳、用户身份。
+
+## 关于准确性
+
+词条由玩家社区贡献，可能有错。发现错误请开 PR 修正，不要私下改坏 ——
+改动有 git 历史才可追溯。
+
+## 商标
+
+「ValTrans」是项目名称，不是商标授权。使用词库不需要提及 ValTrans，
+提及了也不代表获得官方背书。
