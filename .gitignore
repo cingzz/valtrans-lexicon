@@ -1,0 +1,5 @@
+# 本地文件（绝不能进版本库）
+proposals.json
+*.tmp
+.DS_Store
+Thumbs.db
